@@ -18,7 +18,7 @@ I design and deploy production-ready AI systems — from fine-tuning and prompti
 - 🧠 Deep interests: **RAG pipelines · Vector databases · LLM Agents · Reinforcement Learning**
 - 🤝 Open to: **Freelance projects · Remote roles · AI consulting**
 - 📫 Contact: **skander.andolsi01@gmail.com**
-- 🌐 Portfolio: **Coming soon**
+- 🌐 Portfolio: **https://portfolio-kappa-lime-74.vercel.app/**
 - 📍 Based in Tunisia — available remotely worldwide
 
 ---
