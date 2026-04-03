@@ -108,7 +108,7 @@ Led a complete modernization of the STAR B700 welding machine:
 
 | Project | Description | Stack | Result |
 |--------|-------------|-------|--------|
-| 👁️ **Real-time Object Detection** | Live YOLO detection streamed to a browser via WebSocket | YOLOv8 · OpenCV · FastAPI · React | ✅ Done  |
+| 👁️ **Real-time Object Detection** | Live YOLO detection streamed to a browser via WebSocket | YOLOv8 · OpenCV · FastAPI · React | 📅 Planned  |
 | 📄 **CV Analysis System** | Full recruitment pipeline with LLM extraction & matching | LLaMA 3 70B · LangGraph · Ollama · MySQL · Docker | ✅ 90% accuracy |
 | 🌡️ **Global Temperature Regression** | Trend analysis and temperature prediction | Python · Pandas · Matplotlib | ✅ Done |
 | 🚗 **Car Price Prediction** | Decision tree model with GUI | Python · scikit-learn · Tkinter | ✅ Done |
