@@ -14,11 +14,12 @@ I'm an **AI & Robotics Engineer** from **Ras Jebal, Bizerte, Tunisia 🇹🇳**,
 
 I design and deploy production-ready AI systems — from fine-tuning and prompting **Large Language Models** (LLaMA 3, Mistral) to building real-time **Computer Vision** pipelines with YOLOv8 and OpenCV. I have hands-on experience with **Reinforcement Learning** using Stable Baselines3, and I'm equally comfortable writing Python backends with FastAPI, containerizing with Docker, and wiring up Raspberry Pi or Arduino hardware.
 
-- 🔭 Currently building: **AI-Powered Projects (LangChain + FastAPI + React)**
+- 🔭 Currently building: **QueryMind — AI-powered data analysis SaaS**
 - 🧠 Deep interests: **RAG pipelines · Vector databases · LLM Agents · Reinforcement Learning**
 - 🤝 Open to: **Freelance projects · Remote roles · AI consulting**
 - 📫 Contact: **skander.andolsi01@gmail.com**
 - 🌐 Portfolio: **https://portfolio-kappa-lime-74.vercel.app/**
+- 🚀 Latest project: **https://querymind-delta.vercel.app**
 - 📍 Based in Tunisia — available remotely worldwide
 
 ---
@@ -58,9 +59,13 @@ I design and deploy production-ready AI systems — from fine-tuning and prompti
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Frontend**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -84,8 +89,6 @@ Built a production-grade **AI-powered CV analysis system** for automated recruit
 
 - Designed a **LangGraph multi-step workflow** for decision-making across the recruitment pipeline
 - Integrated **LLaMA 3 70B via Ollama** for deep NLP — skills extraction, experience parsing, education mapping
-- Built customizable extraction logic adapting to different client requirements
-- Optimized **MySQL** database queries and implemented CV-to-job **matching algorithms**
 - Containerized the full stack with **Docker** for scalable deployment
 - Applied **Scrum + CRISP-DM** methodologies — delivered on time with full technical documentation
 - Achieved **90% improvement** in CV analysis accuracy over manual processing
@@ -99,21 +102,20 @@ Led a complete modernization of the STAR B700 welding machine:
 
 - Replaced and reprogrammed the **PLC (Programmable Logic Controller)**
 - Designed a new **electrical schematic** from scratch using SEE Electrical
-- Installed and configured a new **electronic circuit board**
 - Reduced processing time by **60%** through code optimization
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Result |
+| Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 👁️ **Real-time Object Detection** | Live YOLO detection streamed to a browser via WebSocket | YOLOv8 · OpenCV · FastAPI · React | 📅 Planned  |
+| 📊 **[QueryMind](https://querymind-delta.vercel.app)** | AI-powered data analysis SaaS — upload any CSV, ask in plain English, get instant charts and explanations | FastAPI · LangChain · Groq · Next.js · Recharts | ✅ Live |
+| 👁️ **Real-time Object Detection** | Live YOLO detection streamed to a browser via WebSocket | YOLOv8 · OpenCV · FastAPI · React | 📅 Planned |
 | 📄 **CV Analysis System** | Full recruitment pipeline with LLM extraction & matching | LLaMA 3 70B · LangGraph · Ollama · MySQL · Docker | ✅ 90% accuracy |
 | 🌡️ **Global Temperature Regression** | Trend analysis and temperature prediction | Python · Pandas · Matplotlib | ✅ Done |
 | 🚗 **Car Price Prediction** | Decision tree model with GUI | Python · scikit-learn · Tkinter | ✅ Done |
 | 🔢 **KNN Iris Classifier** | K-Nearest Neighbors with visualization | Python · scikit-learn · Seaborn | ✅ 100% accuracy |
-| 💡 **Fuzzy Logic Tip Calculator** | GUI-based fuzzy logic calculator | Python · scikit-fuzzy · Tkinter | ✅ Done |
 | ⚙️ **PLC Welding Machine Modernization** | Industrial automation & electrical redesign | TIA Portal · SEE Electrical · PLC | ✅ -60% processing time |
 
 ---
@@ -124,6 +126,7 @@ Led a complete modernization of the STAR B700 welding machine:
 
 | 🎯 Achievement | 📊 Result |
 |---|---|
+| **QueryMind SaaS** | Built and deployed full-stack AI product end-to-end |
 | CV Analysis Accuracy | +90% improvement via AI processing |
 | ML Projects at 100% accuracy | 3 projects achieved perfect scores |
 | AI Model Deployments | 5 scalable models via Docker — +80% infra efficiency |
@@ -165,6 +168,7 @@ Led a complete modernization of the STAR B700 welding machine:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skander-andolsi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skander.andolsi01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkanderAn)
+[![QueryMind](https://img.shields.io/badge/QueryMind-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://querymind-delta.vercel.app)
 
 *Open to remote opportunities, freelance AI projects, and collaborations.*
 
