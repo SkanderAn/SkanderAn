@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Master's+in+Advanced+Robotics+%26+AI+%F0%9F%8E%93;LLM+Pipelines+%7C+LangChain+%7C+LangGraph+%7C+Ollama;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Reinforcement+Learning+%7C+Stable+Baselines3;FastAPI+%7C+Docker+%7C+Scalable+Backends;Raspberry+Pi+%7C+Arduino+%7C+PLC+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Master's+in+Advanced+Robotics+%26+AI+%F0%9F%8E%93;LLM+Pipelines+%7C+LangChain+%7C+LangGraph+%7C+Ollama;RAG+Systems+%7C+Vector+DBs+%7C+AI+Agents;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Reinforcement+Learning+%7C+Stable+Baselines3;FastAPI+%7C+Docker+%7C+Scalable+Backends;Raspberry+Pi+%7C+Arduino+%7C+PLC+Automation)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,14 @@ I'm an **AI & Robotics Engineer** from **Ras Jebal, Bizerte, Tunisia 🇹🇳**,
 
 I design and deploy production-ready AI systems — from fine-tuning and prompting **Large Language Models** (LLaMA 3, Mistral) to building real-time **Computer Vision** pipelines with YOLOv8 and OpenCV. I have hands-on experience with **Reinforcement Learning** using Stable Baselines3, and I'm equally comfortable writing Python backends with FastAPI, containerizing with Docker, and wiring up Raspberry Pi or Arduino hardware.
 
-- 🔭 Currently building: **QueryMind — AI-powered data analysis SaaS**
-- 🧠 Deep interests: **RAG pipelines · Vector databases · LLM Agents · Reinforcement Learning**
-- 🤝 Open to: **Freelance projects · Remote roles · AI consulting**
-- 📫 Contact: **skander.andolsi01@gmail.com**
-- 🌐 Portfolio: **https://portfolio-kappa-lime-74.vercel.app/**
-- 🚀 Latest project: **https://querymind-delta.vercel.app**
-- 📍 Based in Tunisia — available remotely worldwide
+- 🔭 **Currently building:** [Aria](https://github.com/SkanderAn/aria) — AI Customer Support Platform (fully functional locally, frontend live)
+- 🌟 **Latest project:** [Aria](https://aria-henna-six.vercel.app) – Train an AI agent on your business docs, deploy a chat widget in 5 minutes
+- 🧠 **Deep interests:** RAG pipelines · LLM Agents · Vector databases · Reinforcement Learning
+- 🤝 **Open to:** Freelance projects · Remote roles · AI consulting
+- 📫 **Contact:** skander.andolsi01@gmail.com
+- 🌐 **Portfolio:** https://portfolio-kappa-lime-74.vercel.app/
+- 🚀 **Live projects:** [Aria (frontend)](https://aria-henna-six.vercel.app) | [QueryMind](https://querymind-delta.vercel.app)
+- 📍 **Based in Tunisia** — available remotely worldwide
 
 ---
 
@@ -44,6 +45,7 @@ I design and deploy production-ready AI systems — from fine-tuning and prompti
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -110,6 +112,7 @@ Led a complete modernization of the STAR B700 welding machine:
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
+| 💬 **[Aria](https://github.com/SkanderAn/aria)** | AI Customer Support Platform – Train an agent on your business docs, deploy a chat widget in 5 minutes. Full RAG pipeline with LangChain + Groq. | FastAPI · LangChain · ChromaDB · Groq · Next.js · Railway · Vercel | ✅ **Fully functional locally · Frontend live** ([try it](https://aria-henna-six.vercel.app)) |
 | 📊 **[QueryMind](https://querymind-delta.vercel.app)** | AI-powered data analysis SaaS — upload any CSV, ask in plain English, get instant charts and explanations | FastAPI · LangChain · Groq · Next.js · Recharts | ✅ Live |
 | 👁️ **Real-time Object Detection** | Live YOLO detection streamed to a browser via WebSocket | YOLOv8 · OpenCV · FastAPI · React | 📅 Planned |
 | 📄 **CV Analysis System** | Full recruitment pipeline with LLM extraction & matching | LLaMA 3 70B · LangGraph · Ollama · MySQL · Docker | ✅ 90% accuracy |
@@ -126,7 +129,8 @@ Led a complete modernization of the STAR B700 welding machine:
 
 | 🎯 Achievement | 📊 Result |
 |---|---|
-| **QueryMind SaaS** | Built and deployed full-stack AI product end-to-end |
+| **Aria — AI Customer Support Platform** | Full RAG agent with document ingestion, chat, and embeddable widget (local + frontend live) |
+| **QueryMind SaaS** | Built and deployed end‑to‑end AI product |
 | CV Analysis Accuracy | +90% improvement via AI processing |
 | ML Projects at 100% accuracy | 3 projects achieved perfect scores |
 | AI Model Deployments | 5 scalable models via Docker — +80% infra efficiency |
@@ -168,7 +172,7 @@ Led a complete modernization of the STAR B700 welding machine:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skander-andolsi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skander.andolsi01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkanderAn)
-[![QueryMind](https://img.shields.io/badge/QueryMind-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://querymind-delta.vercel.app)
+[![Aria Live](https://img.shields.io/badge/Aria_Live-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://aria-henna-six.vercel.app)
 
 *Open to remote opportunities, freelance AI projects, and collaborations.*
 
