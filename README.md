@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Master's+in+Advanced+Robotics+%26+AI+%F0%9F%8E%93;LLM+Pipelines+%7C+LangChain+%7C+LangGraph+%7C+Ollama;RAG+Systems+%7C+Vector+DBs+%7C+AI+Agents;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Reinforcement+Learning+%7C+Stable+Baselines3;FastAPI+%7C+Docker+%7C+Scalable+Backends;Raspberry+Pi+%7C+Arduino+%7C+PLC+Automation)](https://git.io/typing-svg)
 
 </div>
@@ -15,7 +13,7 @@ I'm an **AI & Robotics Engineer** from **Ras Jebal, Bizerte, Tunisia 🇹🇳**,
 I design and deploy production-ready AI systems — from fine-tuning and prompting **Large Language Models** (LLaMA 3, Mistral) to building real-time **Computer Vision** pipelines with YOLOv8 and OpenCV. I have hands-on experience with **Reinforcement Learning** using Stable Baselines3, and I'm equally comfortable writing Python backends with FastAPI, containerizing with Docker, and wiring up Raspberry Pi or Arduino hardware.
 
 - 🔭 **Currently building:** [Aria](https://github.com/SkanderAn/aria) — AI Customer Support Platform (fully functional locally, frontend live)
-- 🌟 **Latest project:** [Aria](https://aria-henna-six.vercel.app) – Train an AI agent on your business docs, deploy a chat widget in 5 minutes
+- 🌟 **Latest project:** [Factura](https://github.com/SkanderAn/factura) – Full‑stack invoicing & quotes SaaS for MENA businesses
 - 🧠 **Deep interests:** RAG pipelines · LLM Agents · Vector databases · Reinforcement Learning
 - 🤝 **Open to:** Freelance projects · Remote roles · AI consulting
 - 📫 **Contact:** skander.andolsi01@gmail.com
@@ -56,6 +54,7 @@ I design and deploy production-ready AI systems — from fine-tuning and prompti
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -70,6 +69,7 @@ I design and deploy production-ready AI systems — from fine-tuning and prompti
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Hardware & Automation**
@@ -114,6 +114,7 @@ Led a complete modernization of the STAR B700 welding machine:
 |--------|-------------|-------|--------|
 | 💬 **[Aria](https://github.com/SkanderAn/aria)** | AI Customer Support Platform – Train an agent on your business docs, deploy a chat widget in 5 minutes. Full RAG pipeline with LangChain + Groq. | FastAPI · LangChain · ChromaDB · Groq · Next.js · Railway · Vercel | ✅ **Fully functional locally · Frontend live** ([try it](https://aria-henna-six.vercel.app)) |
 | 📊 **[QueryMind](https://querymind-delta.vercel.app)** | AI-powered data analysis SaaS — upload any CSV, ask in plain English, get instant charts and explanations | FastAPI · LangChain · Groq · Next.js · Recharts | ✅ Live |
+| 🧾 **[Factura](https://github.com/SkanderAn/factura)** | Full‑stack invoicing & quotes SaaS for MENA businesses – JWT auth, clients, invoices, PDF generation, dashboard with charts, quote‑to‑invoice conversion. | FastAPI · Next.js · PostgreSQL · Tailwind CSS · ReportLab · JWT | ✅ Complete (local, ready to deploy) |
 | 👁️ **Real-time Object Detection** | Live YOLO detection streamed to a browser via WebSocket | YOLOv8 · OpenCV · FastAPI · React | 📅 Planned |
 | 📄 **CV Analysis System** | Full recruitment pipeline with LLM extraction & matching | LLaMA 3 70B · LangGraph · Ollama · MySQL · Docker | ✅ 90% accuracy |
 | 🌡️ **Global Temperature Regression** | Trend analysis and temperature prediction | Python · Pandas · Matplotlib | ✅ Done |
@@ -131,6 +132,7 @@ Led a complete modernization of the STAR B700 welding machine:
 |---|---|
 | **Aria — AI Customer Support Platform** | Full RAG agent with document ingestion, chat, and embeddable widget (local + frontend live) |
 | **QueryMind SaaS** | Built and deployed end‑to‑end AI product |
+| **Factura — Invoicing Platform** | Professional full‑stack SaaS with PDF generation and dashboard |
 | CV Analysis Accuracy | +90% improvement via AI processing |
 | ML Projects at 100% accuracy | 3 projects achieved perfect scores |
 | AI Model Deployments | 5 scalable models via Docker — +80% infra efficiency |
