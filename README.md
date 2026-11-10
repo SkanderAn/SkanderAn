@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Master's+in+Advanced+Robotics+%26+AI+%F0%9F%8E%93;LLM+Pipelines+%7C+LangChain+%7C+LangGraph+%7C+Ollama;RAG+Systems+%7C+Vector+DBs+%7C+AI+Agents;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Reinforcement+Learning+%7C+Stable+Baselines3;FastAPI+%7C+Docker+%7C+Scalable+Backends;Raspberry+Pi+%7C+Arduino+%7C+PLC+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Junior+AI+&+Data+Engineer+%26+AI+%F0%9F%8E%93;LLM+Pipelines+%7C+LangChain+%7C+LangGraph+%7C+Ollama;RAG+Systems+%7C+Vector+DBs+%7C+AI+Agents;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;Reinforcement+Learning+%7C+Stable+Baselines3;FastAPI+%7C+Docker+%7C+Scalable+Backends;Raspberry+Pi+%7C+Arduino+%7C+PLC+Automation)](https://git.io/typing-svg)
 
 </div>
 
